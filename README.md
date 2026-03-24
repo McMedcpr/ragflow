@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> Initialize
 <a href="https://cloud.ragflow.io/">
 <img src="web/src/assets/logo-with-text.svg" width="520" alt="ragflow logo">
 </a>
